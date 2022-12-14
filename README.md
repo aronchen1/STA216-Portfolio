@@ -1,4 +1,4 @@
-# STA216 Portfolio
+# STA216 Portfolio Aron Chen
 Host site for my statistical portfolio
 
 To access files please click Code(big green button) -> Donwload ZIP -> Unzip folder
